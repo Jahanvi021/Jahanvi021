@@ -74,9 +74,11 @@ A robotics project involving the design and development of a four-legged spider 
 
 ## GitHub Statistics
 
-![Jahanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jahanvi021&show_icons=true&theme=tokyonight)
+![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jahanvi021&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahanvi021&layout=compact&theme=tokyonight)
+![Repositories per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jahanvi021&theme=tokyonight)
+
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jahanvi021&theme=tokyonight)
 
 ## Let's Connect
 
